@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there! My name is Augusto but you can call me Guto. This is my Data Analytics repository!👋
 
+This is my background / experience:
+- 👨‍🎓 I have a degree in Accountancy.
+- 🎲 I've been working with Data since 2021.
+- 🏢 I've worked in some big companies such as: Itaú, EDP and Will Bank.
+- 🤓 I have experience with SQL, Excel and Python.
+- 🔭 I’m currently working on my data skills (always).
+- 📫 How to reach me: guto.cheida@yahoo.com.br or [my LinkedIn](https://www.linkedin.com/in/augusto-cheida-07849012a/)
 <!--
 **gutocheida/gutocheida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
