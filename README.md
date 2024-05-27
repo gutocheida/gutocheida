@@ -1,4 +1,4 @@
-## Hi there! My name is Augusto but you can call me Guto. This is my Data Analytics repository!👋
+## Hi there! My name is Augusto, but you can call me Guto. This is my Data Analytics repository!👋
 
 This is my background / experience:
 - 👨‍🎓 I have a degree in Accountancy.
